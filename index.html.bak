@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bijaya Khadka - Portfolio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Bijaya Khadka</h1>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#education">Education</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#experience">Experience</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>About</h2>
+      <p>
+        Highly motivated and skilled IT support officer currently working at Medical Staff, who has a wealth of experience with strong technical skills, decent educational background and industry certifications. With my experience in IT field, I can bring my enhanced ability in multitasking and problem solving to provide effective and efficient solutions for technical matters. I am eager to learn and further develop my career. I can bring great value and dedication to the role to achieve organisational objectives.
+      </p>
+    </section>
+
+    <section id="education">
+      <h2>Education</h2>
+      <ul>
+        <li>
+          <h3>Professional Year Program - Information Technology</h3>
+          <p>Queensland International Business Academy, Sydney Campus</p>
+          <p>Dec 2022 - Present</p>
+        </li>
+        <li>
+          <h3>Bachelor of Information Technology</h3>
+          <p>Charles Sturt University, Sydney, NSW</p>
+          <p>Jun 2019 - Dec 2021</p>
+        </li>
+        <li>
+          <h3>Advanced Diploma in Information Technology</h3>
+          <p>Australian College of Business Intelligence, Sydney, NSW</p>
+          <p>Jun 2017 - Jun 2022</p>
+        </li>
+      </ul>
+    </section>
+
+    <section id="projects">
+      <h2>Projects</h2>
+      <ul>
+        <li>
